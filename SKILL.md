@@ -1,13 +1,7 @@
 ---
 name: ip-skill
 description: |
-  지식재산(IP) 실사·귀속설계·포트폴리오 전략 엔진 v1.0. 플랫폼 IP를 4관점(유저 UGC·플랫폼 자체·크리에이터/합자·라이선싱/기술양수도)으로 MECE 분해. 6자산(특허·상표·저작권·영업비밀·디자인·DB권)×한미중 3법역×진단/설계/실사/각주 4모드. 투자스킬이 못 다루는 IP 실사 전담. 신뢰도 등급·무효확률.
-  P1: IP스킬, ip-skill, 지식재산, 특허, 상표, 저작권, 영업비밀, 직무발명, 라이선싱, 기술양수도, IP실사, IP귀속, UGC귀속, 콘텐츠IP, 2차적저작물, 데이터베이스권, 퍼블리시티, 업무상저작물, 오픈소스, FRAND, IP밸류에이션, first-to-file, work-for-hire, AI저작물, DTSA.
-  P2: 진단해줘, 설계해줘, 실사해줘, 각주달아줘, 귀속 봐줘, diagnose, audit.
-  P3: IP due diligence, ownership attribution, licensing, technology transfer, patent portfolio.
-  P4: 투자유치 전 IP 실사시, UGC 약관 IP 귀속 설계시, 크리에이터/합자 IP 정본화시, 기술양수도 직전, 해외(미국/중국) IP 등록·분쟁 대비시.
-  P5: 진단서로, 실사보고서로, 귀속맵으로, .md로.
-  NOT: 계약서 검토(→contract-consulting), 앱 고지문(→app-and-jang), 투자 텀시트(→investment-skill), 규제 인허가·제재(→regulatory-skill).
+  지식재산(IP) 실사·귀속설계·포트폴리오 전략 엔진 v1.0. 플랫폼 IP를 4관점(유저 UGC·플랫폼 자체·크리에이터/합자·라이선싱/기술양수도)으로 MECE 분해. 6자산(특허·상표·저작권·영업비밀·디자인·DB권)×한미중 3법역×진단/설계/실사/각주 4모드. 투자스킬이 못 다루는 IP 실사 전담. 신뢰도 등급·무효확률. 트리거: IP스킬, ip-skill, 지식재산, 특허, 상표, 저작권, 영업비밀, 직무발명, 라이선싱, 기술양수도, IP실사, IP귀속, UGC귀속, 콘텐츠IP, 2차적저작물, 데이터베이스권, 퍼블리시티, 업무상저작물, 오픈소스, FRAND, IP밸류에이션, first-to-file. NOT: 계약서 검토(→contract-consulting), 앱 고지문(→app-and-jang), 투자 텀시트(→investment-skill), 규제 인허가·제재(→regulatory-skill).
 ---
 
 # IP Skill (지식재산 엔진) v1.0 — "IP Alpha"
